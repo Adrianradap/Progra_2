@@ -75,7 +75,7 @@ class NumeroNatural
                 case 7: c7++; break;
                 case 8: c8++; break;
                 case 9: c9++; break;
-            }
+            }   
 
             numero /= 10;
         }
